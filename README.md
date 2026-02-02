@@ -85,11 +85,11 @@ sales-density-analysis-sql-powerbi/
 ├── data/
 │   └── adidas_sales_cleaned.csv
 │
-├── sql/
-│   └── sales_density_views.sql
-│
 ├── powerbi/
 │   ├── sales_density_overview_daily_weekly_patterns.png
 │   └── sales_density_analysis_day_week_overview.png
+│
+├── sql/
+│   └── sales_density_views.sql
 │
 └── README.md
